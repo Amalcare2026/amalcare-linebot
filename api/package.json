@@ -1,0 +1,8 @@
+{
+  "name": "amalcare-linebot",
+  "version": "1.0.0",
+  "dependencies": {
+    "@line/bot-sdk": "^9.3.0",
+    "firebase-admin": "^12.0.0"
+  }
+}
